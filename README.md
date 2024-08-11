@@ -1,21 +1,36 @@
-# Hello World, I'm Lari, welcome here!
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 40%; vertical-align: top; padding: 10px;">
+      <img src="https://i.pinimg.com/564x/a4/e4/42/a4e442d808afe9ea2f9ae19acddc4405.jpg" alt="CowboyBebop" style="width: 100%; border: none;"/>
+    </td>
+    <td style="width: 60%; vertical-align: top; padding: 10px;">
+      <p style="font-family: monospace; font-size: 16px;">
+        
+          ＬＡＲＩＳＳＡ ＶＩＴＯＲＩＡ
+  </p>
 
-<div>
-  <a href="https://github.com/withxlari">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=withxlari&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=withxlari&layout=compact&langs_count=6&theme=synthwave"/>
-  </div>
-    
-  <div style=display: inline_block><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="PYTHON">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-</div>
-  
-##
-
-<div> 
-  <a href="https://www.instagram.com/withlarix/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: vlarissaq265@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+      /About_Me
+      │
+      ├── /bio
+      │   ├── she/her - brazilian - (pt/br + english)
+      │   ├── /self_learner
+      │
+      ├── /os
+      │   ├── /linux
+      │   │   └── kali_linux
+      │   └── /windows
+      │       └── Windows 11: with WSL (Ubuntu 18.3)
+      │
+      ├── /languages
+      │   ├── python
+      │   ├── javascript
+      │   ├── java
+      │
+      └── /learning
+          ├── java
+          ├── linux
+          ├── cybersecutiry
+          └── 
+   </td>
+  </tr>
+</table>
