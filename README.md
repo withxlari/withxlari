@@ -4,8 +4,9 @@
       <img src="https://i.pinimg.com/736x/0f/b6/d8/0fb6d8f5fe193ecabafd22ce2ac081ed.jpg" alt="CowboyBebop" style="width: 100%; border: none;"/>
     </td>
     <td style="width: 60%; vertical-align: top; padding: 10px;">
-      <p style="font-family: monospace; font-size: 16px;">
-        
+      <div style="font-family: monospace; font-size: 16px; color: #dcdcdc;">
+        <p style="font-family: monospace; font-size: 24px; margin: 0; padding-bottom: 10px;">
+         
           ＬＡＲＩＳＳＡ ＶＩＴＯＲＩＡ
   </p>
 
