@@ -6,9 +6,8 @@
     │
     ├── /bio
     │   ├── she/her - brazilian - (pt/br + english)
-    │   ├── self_leaner
+    │   ├── computer science student (B.Sc)
     │   ├── back_end_dev
-    │   ├── studying cibersecurity
     │
     ├── /os
     │   ├── /linux
