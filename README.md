@@ -11,9 +11,9 @@
     │
     ├── /os
     │   ├── /linux
-    │   │   └── kali_linux (main)
+    │   │   └── kali_linux
     │   └── /windows
-    │       └── Windows 11: with WSL (Ubuntu 18.3)
+    │       └── Windows 11: with WSL (Ubuntu 18.3) (main)
     │
     ├── /languages
     │   ├── python
