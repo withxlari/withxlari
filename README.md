@@ -11,9 +11,7 @@
     │
     ├── /os
     │   ├── /linux
-    │   │   └── kali_linux
-    │   └── /windows
-    │       └── Windows 11: with WSL (Ubuntu 18.3) (main)
+    │   │   └── mint_linux
     │
     ├── /languages
     │   ├── python
