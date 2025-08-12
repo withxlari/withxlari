@@ -20,7 +20,7 @@
     │
     └── /learning
         ├── java
-        ├── machile learning
+        ├── machine learning
         ├── linux
    </td>
   </tr>
