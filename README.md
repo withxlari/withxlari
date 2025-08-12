@@ -20,7 +20,7 @@
     │
     └── /learning
         ├── java
-        ├── cibersecurity
+        ├── machile learning
         ├── linux
    </td>
   </tr>
