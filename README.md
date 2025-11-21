@@ -42,7 +42,7 @@ machine learning e criação de sistemas que realmente resolvem problemas.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=withxlari&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak"/>
 </div>
 
-## 🐍 SNAKE GAME → Eating My Contributions
+## 🐍 SNAKE GAME 
 <div align="center">
   <img src="https://raw.githubusercontent.com/withxlari/withxlari/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
