@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/imn4nda/imn4nda/blob/main/cat-waving-hand.gif" width="120">
 
   - ✨ My name is Larissa Vitoria.
-  - 💡 Currently an undergraduate student in Computer Science at Cruzeiro do Sul University.
+  - 💡 Currently an undergraduate student in Computer Science.
   - 💼 Experience in software and full-stack development.
   - 🛠️ Practical experience in real-world projects like Cultiva and Gestor de Obras.
   - 🐧 Linux user.
